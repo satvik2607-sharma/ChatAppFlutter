@@ -1,4 +1,4 @@
-#Connectify
+# Connectify
 
 Connectify is a online chat application made using Flutter for frontend and Firebase for backend which allows users to chat with their favourate one's in realtime.
 
